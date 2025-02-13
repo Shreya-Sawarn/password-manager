@@ -1,1 +1,2 @@
 # password-manager
+This code is written to help people generate strong passwords for their usage. this code is written in python language. It uses string module and random module. the string module is used to collect all strings available in python library including digits,ascii letters and more. The random module is used to make random combinations for the passwords(random.shuffle).The code asks the user for the password length and makes random combinations according to the user input.
